@@ -1,1 +1,1 @@
-Upload the skins folder for downloading
+Skins are stored as zip files and require manually downloading and extracting.
